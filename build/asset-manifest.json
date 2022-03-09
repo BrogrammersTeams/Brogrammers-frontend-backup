@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ad2c8fb.css",
+    "main.js": "/static/js/main.a1930796.js",
+    "static/js/787.825ed3d2.chunk.js": "/static/js/787.825ed3d2.chunk.js",
+    "static/media/hospital.mp4": "/static/media/hospital.db45f1f350ced6b2da6a.mp4",
+    "static/media/3.jpg": "/static/media/3.9e3bcd6fb776b538bed3.jpg",
+    "static/media/1.jpg": "/static/media/1.68ff4230c23b5b0baec8.jpg",
+    "static/media/2.jpg": "/static/media/2.b8705c041b6103c074e5.jpg",
+    "static/media/4.jpg": "/static/media/4.1cae8ab7197fa39f8dae.jpg",
+    "static/media/5.jpg": "/static/media/5.ff26c6f202ee4aea4dc3.jpg",
+    "static/media/MainLogo.gif": "/static/media/MainLogo.3853d77328fd9777d7f3.gif",
+    "static/media/fav.png": "/static/media/fav.39a8469b19c4d320b98d.png",
+    "index.html": "/index.html",
+    "main.6ad2c8fb.css.map": "/static/css/main.6ad2c8fb.css.map",
+    "main.a1930796.js.map": "/static/js/main.a1930796.js.map",
+    "787.825ed3d2.chunk.js.map": "/static/js/787.825ed3d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad2c8fb.css",
+    "static/js/main.a1930796.js"
+  ]
+}
