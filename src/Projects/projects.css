@@ -1,0 +1,61 @@
+.GlobalProjects h1 {
+  margin: 1vh;
+  font-size: 3vh;
+  font-weight: bold;
+}
+
+.ProjectCard {
+  width: 100%;
+  background-color: white;
+  padding: 1vh 1vw;
+  border-radius: 10px;
+  position: relative;
+}
+
+.ProjectCard h3 {
+  margin: 0;
+  font-size: 5vh;
+  font-weight: bold;
+  color: #500250;
+}
+
+.ProjectCard h5 {
+  margin: 0;
+  color: gray;
+}
+
+.ProjectCard .tags {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0vh 0.5vw;
+  border-radius: 5px;
+  width: 30vw;
+  position: absolute;
+  right: 1vw;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  top: 1vh;
+}
+
+.ProjectCard .tags p {
+  padding: 1vh 1vw;
+  background-color: #68d4f0;
+  margin-right: 0.5vh;
+  color: white;
+  border-radius: 5px;
+}
+
+.ProjectCard .tags p:nth-child(1) {
+  background: #ec8a8a;
+}
+
+.ProjectCard .tags p:nth-child(2) {
+  background: #d0ec8a;
+}
+/*# sourceMappingURL=projects.css.map */
